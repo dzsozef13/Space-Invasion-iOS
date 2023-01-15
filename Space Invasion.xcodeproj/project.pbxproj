@@ -15,7 +15,6 @@
 		BC8615C0206C1EA700537DA0 /* CreditsScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC8615BF206C1EA700537DA0 /* CreditsScene.swift */; };
 		BC8615C2206C1EDD00537DA0 /* CreditsScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = BC8615C1206C1EDD00537DA0 /* CreditsScene.sks */; };
 		BC91788B200037FD000AF31C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC91788A200037FD000AF31C /* AppDelegate.swift */; };
-		BC91788F200037FD000AF31C /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = BC91788E200037FD000AF31C /* Actions.sks */; };
 		BC917893200037FD000AF31C /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC917892200037FD000AF31C /* GameViewController.swift */; };
 		BC917896200037FD000AF31C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC917894200037FD000AF31C /* Main.storyboard */; };
 		BC91789B200037FD000AF31C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC917899200037FD000AF31C /* LaunchScreen.storyboard */; };
@@ -27,11 +26,11 @@
 		BCC3ED9E241C073E00FC2558 /* GameOverScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = BCC3ED9C241BC70500FC2558 /* GameOverScene.sks */; };
 		BCDE521220E7FB6E00397BCD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BCDE521120E7FB6D00397BCD /* Assets.xcassets */; };
 		BCDE521420E7FC5A00397BCD /* boldp.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BCDE521320E7FC5A00397BCD /* boldp.ttf */; };
-		BCF13FFC2083F6910031D4F3 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = BCF13FFA2083F6910031D4F3 /* GameScene.sks */; };
-		BCF13FFD2083F6910031D4F3 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCF13FFB2083F6910031D4F3 /* GameScene.swift */; };
 		BCF1400A2083F8AA0031D4F3 /* Explosion2.sks in Resources */ = {isa = PBXBuildFile; fileRef = BCF140072083F8AA0031D4F3 /* Explosion2.sks */; };
 		BCF1400B2083F8AA0031D4F3 /* Starfield.sks in Resources */ = {isa = PBXBuildFile; fileRef = BCF140082083F8AA0031D4F3 /* Starfield.sks */; };
 		BCF9F43C200D1D3400A9594E /* MenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCF9F43B200D1D3400A9594E /* MenuScene.swift */; };
+		E88B35F02974CA3000DE3A1D /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = E88B35EE2974CA3000DE3A1D /* GameScene.sks */; };
+		E88B35F12974CA3000DE3A1D /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E88B35EF2974CA3000DE3A1D /* GameScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,7 +43,6 @@
 		BC8615C1206C1EDD00537DA0 /* CreditsScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = CreditsScene.sks; sourceTree = "<group>"; };
 		BC917887200037FD000AF31C /* Space Invasion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Space Invasion.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC91788A200037FD000AF31C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BC91788E200037FD000AF31C /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		BC917892200037FD000AF31C /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		BC917895200037FD000AF31C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BC91789A200037FD000AF31C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -57,11 +55,11 @@
 		BCC3ED9C241BC70500FC2558 /* GameOverScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameOverScene.sks; sourceTree = "<group>"; };
 		BCDE521120E7FB6D00397BCD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BCDE521320E7FC5A00397BCD /* boldp.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = boldp.ttf; sourceTree = "<group>"; };
-		BCF13FFA2083F6910031D4F3 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = GameScene.sks; path = "Space Invasion/Game/GameScene.sks"; sourceTree = SOURCE_ROOT; };
-		BCF13FFB2083F6910031D4F3 /* GameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GameScene.swift; path = "Space Invasion/Game/GameScene.swift"; sourceTree = SOURCE_ROOT; };
 		BCF140072083F8AA0031D4F3 /* Explosion2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Explosion2.sks; sourceTree = "<group>"; };
 		BCF140082083F8AA0031D4F3 /* Starfield.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Starfield.sks; sourceTree = "<group>"; };
 		BCF9F43B200D1D3400A9594E /* MenuScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
+		E88B35EE2974CA3000DE3A1D /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		E88B35EF2974CA3000DE3A1D /* GameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,23 +127,9 @@
 		BC917889200037FD000AF31C /* Space Invasion */ = {
 			isa = PBXGroup;
 			children = (
-				BC91788A200037FD000AF31C /* AppDelegate.swift */,
-				BC917892200037FD000AF31C /* GameViewController.swift */,
-				BC917899200037FD000AF31C /* LaunchScreen.storyboard */,
-				BC917894200037FD000AF31C /* Main.storyboard */,
-				BCDE521120E7FB6D00397BCD /* Assets.xcassets */,
-				BCF9F43E200D307600A9594E /* Menu */,
-				BC8615BE206C1C8400537DA0 /* Options */,
-				BC8615C3206C1EE600537DA0 /* Credits */,
-				BCA3D33F20E51B410058255E /* Goals */,
-				BC7BF00920644DC500C1ECC2 /* Setup */,
-				BCF9F467200E5DA000A9594E /* Game */,
-				BCC3ED97241BC63700FC2558 /* GameOver */,
-				BCF9F417200AC5F300A9594E /* Emmitters */,
-				BCF9F425200AD4B200A9594E /* Fonts */,
-				BC91788E200037FD000AF31C /* Actions.sks */,
-				BC91789C200037FD000AF31C /* Info.plist */,
-				BC7BF01020645FA200C1ECC2 /* Sounds */,
+				E88B35EC2974C97500DE3A1D /* Core */,
+				E88B35ED2974C98400DE3A1D /* Scenes */,
+				E88B35EA2974C93400DE3A1D /* Resources */,
 			);
 			path = "Space Invasion";
 			sourceTree = "<group>";
@@ -198,10 +182,55 @@
 		BCF9F467200E5DA000A9594E /* Game */ = {
 			isa = PBXGroup;
 			children = (
-				BCF13FFA2083F6910031D4F3 /* GameScene.sks */,
-				BCF13FFB2083F6910031D4F3 /* GameScene.swift */,
+				E88B35EE2974CA3000DE3A1D /* GameScene.sks */,
+				E88B35EF2974CA3000DE3A1D /* GameScene.swift */,
 			);
 			path = Game;
+			sourceTree = "<group>";
+		};
+		E88B35EA2974C93400DE3A1D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				BC91789C200037FD000AF31C /* Info.plist */,
+				BCDE521120E7FB6D00397BCD /* Assets.xcassets */,
+				E88B35EB2974C94600DE3A1D /* Storyboards */,
+				BCF9F417200AC5F300A9594E /* Emmitters */,
+				BCF9F425200AD4B200A9594E /* Fonts */,
+				BC7BF01020645FA200C1ECC2 /* Sounds */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		E88B35EB2974C94600DE3A1D /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				BC917899200037FD000AF31C /* LaunchScreen.storyboard */,
+				BC917894200037FD000AF31C /* Main.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		E88B35EC2974C97500DE3A1D /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				BC91788A200037FD000AF31C /* AppDelegate.swift */,
+				BC917892200037FD000AF31C /* GameViewController.swift */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		E88B35ED2974C98400DE3A1D /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				BCF9F43E200D307600A9594E /* Menu */,
+				BC8615BE206C1C8400537DA0 /* Options */,
+				BC8615C3206C1EE600537DA0 /* Credits */,
+				BCA3D33F20E51B410058255E /* Goals */,
+				BC7BF00920644DC500C1ECC2 /* Setup */,
+				BCF9F467200E5DA000A9594E /* Game */,
+				BCC3ED97241BC63700FC2558 /* GameOver */,
+			);
+			path = Scenes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -270,8 +299,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BCA3D33E20E51B330058255E /* GoalsScene.sks in Resources */,
+				E88B35F02974CA3000DE3A1D /* GameScene.sks in Resources */,
 				BCF1400B2083F8AA0031D4F3 /* Starfield.sks in Resources */,
-				BCF13FFC2083F6910031D4F3 /* GameScene.sks in Resources */,
 				BCF1400A2083F8AA0031D4F3 /* Explosion2.sks in Resources */,
 				BCDE521220E7FB6E00397BCD /* Assets.xcassets in Resources */,
 				BCDE521420E7FC5A00397BCD /* boldp.ttf in Resources */,
@@ -282,7 +311,6 @@
 				BC91789B200037FD000AF31C /* LaunchScreen.storyboard in Resources */,
 				BC8615C2206C1EDD00537DA0 /* CreditsScene.sks in Resources */,
 				BC8615BB206C1C5500537DA0 /* OptionsScene.sks in Resources */,
-				BC91788F200037FD000AF31C /* Actions.sks in Resources */,
 				BCA3D34120E6D36C0058255E /* MenuScene.sks in Resources */,
 				BCC3ED96241558F300FC2558 /* Explosion1.sks in Resources */,
 			);
@@ -296,9 +324,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC7BF00820644DB200C1ECC2 /* SetupScene.swift in Sources */,
-				BCF13FFD2083F6910031D4F3 /* GameScene.swift in Sources */,
 				BCF9F43C200D1D3400A9594E /* MenuScene.swift in Sources */,
 				BCC3ED99241BC68F00FC2558 /* GameOverScene.swift in Sources */,
+				E88B35F12974CA3000DE3A1D /* GameScene.swift in Sources */,
 				BC917893200037FD000AF31C /* GameViewController.swift in Sources */,
 				BCA3D33C20E51B190058255E /* GoalsScene.swift in Sources */,
 				BC91788B200037FD000AF31C /* AppDelegate.swift in Sources */,
@@ -451,7 +479,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = GN373832EQ;
-				INFOPLIST_FILE = "Space Invasion/Info.plist";
+				INFOPLIST_FILE = "Space Invasion/Resources/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -475,7 +503,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = GN373832EQ;
-				INFOPLIST_FILE = "Space Invasion/Info.plist";
+				INFOPLIST_FILE = "Space Invasion/Resources/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
